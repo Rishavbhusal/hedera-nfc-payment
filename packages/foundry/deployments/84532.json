@@ -1,0 +1,11 @@
+{
+  "0x0E2Ea39B49901127a007C6e007efA7338cB006c9": "TapThatXPaymentTerminal",
+  "0x45409e56428640AB9D9f6Cc067fEb02b7476f624": "TapThatXProtocol",
+  "0x4775fA3815c84E9faBd65A7dF249B709bAA6A78a": "TapThatXRegistry",
+  "0x616B0bF3Cb0a4fCDb76155f454494588d8BE258d": "TapThatXExecutor",
+  "0x67abf8D0705b62DA7d8eDBF8449c1F8d7d97515A": "TapThatXConfiguration",
+  "0x9D11b7AEd3C946Af1f519e3f491A9c02a12B59fE": "TapThatXAaveRebalancer",
+  "0xB9c139CDEFcE16Cbd0e551736c17c1Be239c384f": "MockUSDC",
+  "0xC853c0aC3a0294763768fc2825A1e85b7D394EB6": "TapThatXAavePositionCloser",
+  "networkName": "base-sepolia"
+}

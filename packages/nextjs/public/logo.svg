@@ -1,0 +1,14 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#6366F1"/>
+
+  <!-- NFC waves emanating from top-left -->
+  <path d="M 42 60 Q 42 42 60 42" stroke="white" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.4"/>
+  <path d="M 33 60 Q 33 33 60 33" stroke="white" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <path d="M 24 60 Q 24 24 60 24" stroke="white" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.8"/>
+
+  <!-- X symbol -->
+  <g transform="translate(60, 70)">
+    <line x1="-12" y1="-12" x2="12" y2="12" stroke="white" stroke-width="7" stroke-linecap="round"/>
+    <line x1="12" y1="-12" x2="-12" y2="12" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>

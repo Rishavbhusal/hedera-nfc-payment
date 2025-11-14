@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+.env*.local
+*.log
+.DS_Store
+.turbo
+.vercel
+coverage
+.yarn/cache
+.yarn/install-state.gz
+*.tsbuildinfo
+.eslintcache
+public/mockServiceWorker.js
+test-results
+playwright-report

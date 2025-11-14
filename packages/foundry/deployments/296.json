@@ -1,0 +1,7 @@
+{
+  "0x8D0d55d56b5A345b8F188a618e8da469Cc910F65": "TapThatXConfiguration",
+  "0xa158100926a10318A027B0Ba4A35E2DB7D220a9C": "MockUSDC",
+  "0xb664DeF65536A9d1be6713Ef881348f127Ca3E90": "TapThatXExecutor",
+  "0xf8AA173458D09aDB7Ce4814229eC41bc48CefEdC": "TapThatXPaymentTerminal",
+  "networkName": "arbitrum"
+}
