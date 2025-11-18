@@ -35,11 +35,16 @@ Run this command to deploy the 3 failed contracts:
 ```bash
 cd /home/dean/nfc-project/nfc-payment-agent/packages/foundry
 
+# Set your private key as an environment variable (NEVER commit this!)
+export PRIVATE_KEY=0x...
+
 forge script script/DeployRemainingHedera.s.sol \
   --rpc-url hedera_testnet \
   --broadcast \
-  --private-key 0x7d32d563dce16341cb8bfd41b957a2b37ebf102d4a20cc18cbe187b123f12e94
+  --private-key $PRIVATE_KEY
 ```
+
+**⚠️ Security Note**: Never commit your private key to git! Always use environment variables.
 
 ## 📝 Network Information
 
